@@ -6,7 +6,7 @@
 I am a Software Engineering student at the San Ignacio de Loyola University (USIL), with a strong passion for programming. I love discovering new, productive, and creative things. I am always looking to learn new technologies and concepts, and I strive to expand my skills in order to contribute to projects that truly make a difference.
 - 🌱 I’m currently learning ...
   - c++
-  - javascript🌴
+  - javascript
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside of work, 🎮 I love playing video games, 🎵 listening to music, 📽️ watching movies or series, and going out with family or friends🌴.
